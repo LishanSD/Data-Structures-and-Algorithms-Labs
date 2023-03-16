@@ -1,1 +1,1 @@
-# Data_Structures_and_Algorithms_Labs_210339J
+# Data Structures and Algorithms Labs
